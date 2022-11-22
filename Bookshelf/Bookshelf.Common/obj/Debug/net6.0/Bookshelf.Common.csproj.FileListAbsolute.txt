@@ -1,0 +1,116 @@
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.deps.json
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.AssemblyReference.cache
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.AssemblyInfoInputs.cache
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.AssemblyInfo.cs
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\refint\Bookshelf.Common.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\ref\Bookshelf.Common.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.deps.json
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.AssemblyReference.cache
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.AssemblyInfoInputs.cache
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.AssemblyInfo.cs
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.CoreCompileInputs.cache
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\refint\Bookshelf.Common.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\ref\Bookshelf.Common.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.deps.json
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.AssemblyReference.cache
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.AssemblyInfoInputs.cache
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.AssemblyInfo.cs
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\refint\Bookshelf.Common.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\ref\Bookshelf.Common.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Domain.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IData.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Infrastructure.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IServices.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Services.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Domain.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IData.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Infrastructure.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Services.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IServices.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.CopyComplete
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.deps.json
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Domain.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IData.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Infrastructure.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IServices.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Services.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Domain.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IData.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Infrastructure.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Services.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IServices.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.AssemblyReference.cache
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.AssemblyInfo.cs
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.CopyComplete
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\refint\Bookshelf.Common.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\ref\Bookshelf.Common.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.deps.json
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Domain.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IData.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Infrastructure.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IServices.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Services.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Domain.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IData.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Infrastructure.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Services.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IServices.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.AssemblyReference.cache
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.AssemblyInfoInputs.cache
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.AssemblyInfo.cs
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.CopyComplete
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\refint\Bookshelf.Common.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\ref\Bookshelf.Common.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.deps.json
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Domain.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IData.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Infrastructure.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IServices.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Services.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Domain.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IData.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Infrastructure.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.Services.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\bin\Debug\net6.0\Bookshelf.IServices.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.AssemblyReference.cache
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.AssemblyInfoInputs.cache
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.AssemblyInfo.cs
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.CoreCompileInputs.cache
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.csproj.CopyComplete
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\refint\Bookshelf.Common.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Common\obj\Debug\net6.0\ref\Bookshelf.Common.dll

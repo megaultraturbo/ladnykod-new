@@ -1,0 +1,407 @@
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.exe
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.deps.json
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.runtimeconfig.json
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.pdb
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Data.SQL.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Data.SQL.pdb
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.AssemblyReference.cache
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.AssemblyInfoInputs.cache
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.AssemblyInfo.cs
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\scopedcss\bundle\Bookshelf.Api.styles.css
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.CopyComplete
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\refint\Bookshelf.Api.dll
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.pdb
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.genruntimeconfig.cache
+C:\Users\Jakub\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\ref\Bookshelf.Api.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.exe
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.deps.json
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.runtimeconfig.json
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.pdb
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Data.SQL.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Data.SQL.pdb
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.AssemblyReference.cache
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.AssemblyInfoInputs.cache
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.AssemblyInfo.cs
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.CoreCompileInputs.cache
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\scopedcss\bundle\Bookshelf.Api.styles.css
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.CopyComplete
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\refint\Bookshelf.Api.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.pdb
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.genruntimeconfig.cache
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\ref\Bookshelf.Api.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jakub\OneDrive - The Opole University of Technology\semestr 4\programowanie\projekt\zadanie_3\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.exe
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.deps.json
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.runtimeconfig.json
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Data.SQL.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Data.SQL.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.AssemblyReference.cache
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.AssemblyInfoInputs.cache
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.AssemblyInfo.cs
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\scopedcss\bundle\Bookshelf.Api.styles.css
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.CopyComplete
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\refint\Bookshelf.Api.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.genruntimeconfig.cache
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\ref\Bookshelf.Api.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Domain.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IServices.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Domain.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IServices.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IData.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Infrastructure.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Services.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IData.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Infrastructure.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Services.pdb
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Jakub\projekt\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Moq.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.exe
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.deps.json
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.runtimeconfig.json
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Moq.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Data.SQL.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Domain.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IData.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Infrastructure.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IServices.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Services.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Data.SQL.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Domain.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IData.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Infrastructure.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IServices.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Services.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.AssemblyReference.cache
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.AssemblyInfo.cs
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\scopedcss\bundle\Bookshelf.Api.styles.css
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.CopyComplete
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\refint\Bookshelf.Api.dll
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.pdb
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.genruntimeconfig.cache
+C:\Users\jakub\Desktop\gitbook\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\ref\Bookshelf.Api.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.exe
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.deps.json
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.runtimeconfig.json
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Moq.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Data.SQL.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Domain.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IData.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Infrastructure.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IServices.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Services.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Data.SQL.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Domain.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IData.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Infrastructure.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IServices.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Services.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.AssemblyReference.cache
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.AssemblyInfoInputs.cache
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.AssemblyInfo.cs
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\scopedcss\bundle\Bookshelf.Api.styles.css
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.CopyComplete
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\refint\Bookshelf.Api.dll
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.pdb
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.genruntimeconfig.cache
+C:\Users\jakub\Downloads\projekt-s101471new-Bookshelf\projekt-s101471new-Bookshelf\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\ref\Bookshelf.Api.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.exe
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.deps.json
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.runtimeconfig.json
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Api.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Moq.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Common.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Data.SQL.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Domain.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IData.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Infrastructure.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IServices.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Services.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Common.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Data.SQL.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Domain.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IData.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Infrastructure.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.IServices.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\bin\Debug\net6.0\Bookshelf.Services.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.AssemblyReference.cache
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.AssemblyInfoInputs.cache
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.AssemblyInfo.cs
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.CoreCompileInputs.cache
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\scopedcss\bundle\Bookshelf.Api.styles.css
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.csproj.CopyComplete
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\refint\Bookshelf.Api.dll
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.pdb
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\Bookshelf.Api.genruntimeconfig.cache
+C:\Users\jakub\chuj\projekt\Bookshelf\Bookshelf.Api\obj\Debug\net6.0\ref\Bookshelf.Api.dll

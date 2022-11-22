@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">INFO</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7bc3cf23_002D8f53_002D4628_002D89c2_002D9dbe1d82a5e7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddUser_Returns_Correct_Response" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8F9B0D94-25F6-4AE8-B9E5-68DA4063B0AA::net6.0::Bookshelf.Data.Sql.Tests.User.UserRepositoryTest.AddUser_Returns_Correct_Response&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8F9B0D94-25F6-4AE8-B9E5-68DA4063B0AA::net6.0::Bookshelf.Data.Sql.Tests.Book.BookRepositoryTest.AddBook_Returns_Correct_Response&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8F9B0D94-25F6-4AE8-B9E5-68DA4063B0AA::net6.0::Bookshelf.Data.Sql.Tests.Book.BookRepositoryTest.EditBook_Returns_Correct_Response&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93F300DA-055E-46C9-B291-6C9010197F8E::net6.0::Bookshelf.Domain.Tests.User.UserTest.CreateUser_Returns_throws_InvalidPasswordException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93F300DA-055E-46C9-B291-6C9010197F8E::net6.0::Bookshelf.Domain.Tests.User.UserTest.EditUser_Returns_Correct_Response&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93F300DA-055E-46C9-B291-6C9010197F8E::net6.0::Bookshelf.Domain.Tests.User.UserTest.EditUser_Returns_Invalid_Response&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::199DFE4A-21C1-45FE-8B87-AA8D2EA1DA58::net6.0::Bookshelf.Services.Tests.User.UserServiceTest.CreateUser_Returns_throws_InvalidPasswordException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::199DFE4A-21C1-45FE-8B87-AA8D2EA1DA58::net6.0::Bookshelf.Services.Tests.Book.BookServiceTest.CreateBook_Returns_Correct_Response&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8F9B0D94-25F6-4AE8-B9E5-68DA4063B0AA::net6.0::Bookshelf.Data.Sql.Tests.Book.BookRepositoryTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eea6400f_002D552c_002D422f_002Db7fe_002Da356859dcb51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddBook_Returns_Correct_Response" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::93F300DA-055E-46C9-B291-6C9010197F8E::net6.0::Bookshelf.Domain.Tests.Book.BookTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

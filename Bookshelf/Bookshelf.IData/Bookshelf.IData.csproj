@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Bookshelf.Domain\Bookshelf.Domain.csproj" />
+      <ProjectReference Include="..\Bookshelf.IServices\Bookshelf.IServices.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentValidation" Version="11.0.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+      <PackageReference Include="Moq" Version="4.14.1" />
+    </ItemGroup>
+
+</Project>
