@@ -24,8 +24,6 @@ namespace Bookshelf.Api.Controllers
             _bookService = bookService;
         }
         
-        // dodaje get wszystkich ksaizek
-        //get: api/GetAllBooks
         [HttpGet(template:"GetAllBooks")]
         public  List<Book> GetAllBooks()
         {

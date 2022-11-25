@@ -10,7 +10,7 @@ import {
   withStyles,
   Button,
   ButtonGroup,
-} from "@material-ui/core"; //from "@mui/material";
+} from "@material-ui/core";
 import React, { useState, useEffect } from "react";
 import { connect } from "react-redux";
 import * as actions from "../actions/book";
@@ -18,7 +18,6 @@ import BookForm from "./BookForm";
 import { useToasts } from "react-toast-notifications";
 
 const styles = (theme) => ({
-  // override class - klase se pobierasz z f12 loool
   root: {
     "& .MuiTableCell-head": {
       fontSize: "1.25rem",
@@ -31,13 +30,9 @@ const styles = (theme) => ({
   },
 });
 
-// props.classes
-// const[classes ...props] = props
-
 const Books = ({ classes, ...props }) => {
   const [currentId, setCurrentId] = useState(0);
 
-  // tosty for riiil bym zjad tbh gloduwa frrr 100
   const { addToast } = useToasts();
 
   const [x, setX] = useState(0);
@@ -54,7 +49,6 @@ const Books = ({ classes, ...props }) => {
   };
 
   return (
-    //<Paper className={classes.paper}>
     <Grid container>
       <Grid container item xs={6} style={{ height: "100%" }}>
         <Paper className={classes.paper} elevation={3}>
@@ -108,7 +102,6 @@ const Books = ({ classes, ...props }) => {
         </Paper>
       </Grid>
     </Grid>
-    //</Paper>
   );
 };
 
