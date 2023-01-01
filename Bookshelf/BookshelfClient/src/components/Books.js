@@ -35,8 +35,6 @@ const Books = ({ classes, ...props }) => {
 
   const { addToast } = useToasts();
 
-  const [x, setX] = useState(0);
-
   useEffect(() => {
     props.fetchAllBooks();
   }, []); // componentDidMount
