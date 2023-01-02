@@ -14,7 +14,7 @@ const formateDate = (data) => ({
   pagesNumber: parseInt(data.pagesNumber ? data.pagesNumber : 0),
 });
 
-export const fetchall = () => (dispatch) => {
+export const fetchAllBooks = () => (dispatch) => {
   try {
     api
       .Book()
@@ -24,24 +24,27 @@ export const fetchall = () => (dispatch) => {
           type: ACTION_TYPES.FETCH_ALL,
           payload: response.data,
         });
-      })
+      });
   } catch (err) {
     console.log(err);
   }
 };
 
-export const create = (data, onSuccess) => (dispatch) => {
-  api
-    .Book()
-    .create(data)
-    .then((res) => {
-      dispatch({
-        type: ACTION_TYPES.CREATE,
-        payload: res.data,
+export const createBook = (data, onSuccess) => (dispatch) => {
+  try {
+    api
+      .Book()
+      .create(data)
+      .then((res) => {
+        dispatch({
+          type: ACTION_TYPES.CREATE,
+          payload: res.data,
+        });
+        onSuccess();
       });
-      onSuccess();
-    })
-    .catch((err) => console.log(err));
+  } catch (err) {
+    console.log(err);
+  }
 };
 
 export const update = (id, data, onSuccess) => (dispatch) => {
