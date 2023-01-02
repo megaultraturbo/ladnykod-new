@@ -15,17 +15,19 @@ const formateDate = (data) => ({
 });
 
 export const fetchall = () => (dispatch) => {
-  api
-    .Book()
-    .fetchAll()
-    .then((response) => {
-      console.log(response);
-      dispatch({
-        type: ACTION_TYPES.FETCH_ALL,
-        payload: response.data,
-      });
-    })
-    .catch((err) => console.log(err));
+  try {
+    api
+      .Book()
+      .fetchAll()
+      .then((response) => {
+        dispatch({
+          type: ACTION_TYPES.FETCH_ALL,
+          payload: response.data,
+        });
+      })
+  } catch (err) {
+    console.log(err);
+  }
 };
 
 export const create = (data, onSuccess) => (dispatch) => {
